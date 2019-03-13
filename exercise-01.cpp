@@ -26,9 +26,6 @@ int main (){
     sg = new segiempat;
 
     input (sg);
-    keliling(*sg);
-    luas(*sg);
-    diagonal(*sg);
     print(*sg);
 }
 void input (segiempat *s){
