@@ -1,7 +1,7 @@
 /*
  Author     : Shalvina Zahwa Aulia
  NPM        : 140810180052
- Deskripsi  :
+ Deskripsi  : Program segiempat dengan meggunakan struct dan pointer
  Tahun      : 2019
  */
 #include<iostream>
